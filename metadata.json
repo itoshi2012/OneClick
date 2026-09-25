@@ -1,0 +1,6 @@
+{
+  "name": "CodeZip to GitHub & Node.js Workspace",
+  "description": "Extract, inspect, edit Node.js zip archives, and easily publish them directly to GitHub or deploy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
